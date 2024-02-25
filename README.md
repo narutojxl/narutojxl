@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with Deep Learning, Model Acceleration using OpenCL and CUDA.<br/>
 - 💬 Ask me about robot state estimation involved in slam and navigation.<br/>
 - 📫 How to reach me: 18991971519@163.com. <img src="https://media.giphy.com/media/WrlVBo6lEJEVA8EJOs/giphy.gif" height="20"><br/>
-- ⚡ Fun fact:  I ❤️ banminton.
+- ⚡ Fun fact:  I ❤️ badminton and history.
